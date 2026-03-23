@@ -37,7 +37,7 @@
   "devDependencies": {
     "@types/semver": "^7.5.8",
     "@vercel/ncc": "^0.38.1",
-    "prettier": "^3.2.5",
+    "prettier": "^3.8.1",
     "typescript": "^5.4.2"
   }
 }
